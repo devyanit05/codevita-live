@@ -4,7 +4,7 @@
   "description": "Backend Codevita",
   "main": "index.js",
   "engines": {
-    "node": "16.x"
+    "node": "v16.16.0"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
